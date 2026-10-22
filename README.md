@@ -17,6 +17,7 @@
 
 <br/>
 
+<!-- 숨김 처리: 다시 보이게 하려면 이 주석만 지우면 됨
 ## 🛠 Tech Stack
 
 **Languages**
@@ -43,6 +44,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chlwjddnjs&hide_border=true&ring=56ab2f&fire=56ab2f&currStreakLabel=56ab2f" />
 
 </div>
+
+<br/>
+-->
 
 <br/>
 
